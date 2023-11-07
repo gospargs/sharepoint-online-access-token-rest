@@ -14,13 +14,13 @@
 
 4. **Access SharePoint App Registration** at "https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appregnew.aspx."
 
-5. **Fill out the form** and select 'Create.' (Choose one option from the form)
+5. **Fill out the form** and select 'Create.'
 
-6. **Save the information** from the resulting page. (Choose the second option)
+6. **Copy the information** from the resulting page. 
 
 7. **Access SharePoint App Permissions** at "https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appinv.aspx."
 
-8. **Fill out the form** with the following details (Choose the third option):
+8. **Fill out the form** with the following details:
    - App Id: PASTE YOUR CLIENT ID and press 'lookup.'
    - Permission Request XML:
      ```
