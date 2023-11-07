@@ -1,3 +1,5 @@
+### SharePoint Application Registration and Access Token Retrieval
+
 1. **Prerequisite**: The user needs to be a SharePoint Administrator.
 
 2. **Download SharePoint Online Manager PowerShell**.
