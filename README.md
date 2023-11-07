@@ -12,13 +12,13 @@
      Set-SPOTenant -SiteOwnerManageLegacyServicePrincipalEnabled $true
      ```
 
-4. Go to [SharePoint App Registration](https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appregnew.aspx).
+4. **Access SharePoint App Registration** at "https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appregnew.aspx."
 
 5. **Fill out the form** and select 'Create.' (Choose one option from the form)
 
 6. **Save the information** from the resulting page. (Choose the second option)
 
-7. Go to [SharePoint App Permissions](https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appinv.aspx).
+7. **Access SharePoint App Permissions** at "https://<YOUR-SHAREPOINT>.sharepoint.com/_layouts/15/appinv.aspx."
 
 8. **Fill out the form** with the following details (Choose the third option):
    - App Id: PASTE YOUR CLIENT ID and press 'lookup.'
@@ -71,4 +71,3 @@
         "access_token": "<THE TOKEN>"
     }
     ```
-
